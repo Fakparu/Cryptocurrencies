@@ -13,3 +13,11 @@ Deliverables for this project are as follows
 3. Clustering Cryptocurrencies Using K-means
 
 4. Visualizing Cryptocurrencies Results
+
+
+## Steps 
+•	Created data frames, table, visualizations to show what cryptocurrencies in the trading market and how they could be grouped to create a classification system for this new investment.
+•	Processed the data to fit unsupervised machine learning models
+•	Grouped the cryptocurrencies by using clustering algorithm.
+•	Created data visualizations
+
