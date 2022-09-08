@@ -14,7 +14,9 @@ In this project, a report that includes what cryptocurrencies are on the trading
 
 •	Created data visualizations.
 
-• Reduced features/dimensions using PCA and perform PCA on datasets. 
+• Reduced features/dimensions using PCA.
+
+• Performed PCA on datasets. 
 
 • Used hierarchical clustering as alternative to K-means.
 
