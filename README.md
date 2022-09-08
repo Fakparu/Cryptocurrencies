@@ -5,6 +5,16 @@
 In this project, a report that includes what cryptocurrencies are on the trading market and how it can be grouped to create a classification system was created for the new investment for a Bank that is offering a new cryptocurrency investment to customers. The data used for this project is not an ideal data and was processed to fit the machine learning models. There is no known output for this data, so unsupervised learning was used and clustering algorithm, chosen to group the cryptocurrencies.
 
 
+## Project Deliverables 
+
+•	Preprocessing the Data for PCA
+
+•	Reducing Data Dimensions Using PCA
+
+•	Clustering Cryptocurrencies Using K-means
+
+•	Visualizing Cryptocurrencies Results
+
 ## Steps Utilized
 •	Created data frames, table, visualizations to show what cryptocurrencies in the trading market and how they could be grouped to create a classification system for this new investment.
 
@@ -22,7 +32,7 @@ In this project, a report that includes what cryptocurrencies are on the trading
 
 
 
-## Project Deliverables 
+## Result
 
 •	Preprocessing the Data for PCA
 
