@@ -25,15 +25,23 @@ In this project, a report that includes what cryptocurrencies are on the trading
 ## Project Deliverables 
 
 •	Preprocessing the Data for PCA
+
 ![image](https://user-images.githubusercontent.com/105121697/189218948-c52feff5-b803-4c7f-a8a7-3f9da30b63b2.png)
 
+
 •	Reducing Data Dimensions Using PCA
+
 ![image](https://user-images.githubusercontent.com/105121697/189219249-8bc3563a-69cc-4134-bc56-8d1142f5857f.png)
 
+
 •	Clustering Cryptocurrencies Using K-means
+
 ![image](https://user-images.githubusercontent.com/105121697/189219520-86c732a0-8d09-4d58-b531-a8872527191d.png)
 
+
 •	Visualizing Cryptocurrencies Results
+
 ![image](https://user-images.githubusercontent.com/105121697/189219763-a7a7670a-cfb2-4232-8fb9-9b6fdc755694.png)
+
 ![image](https://user-images.githubusercontent.com/105121697/189219848-c2aeef82-34c1-4641-bef4-a946a4138dee.png)
 
