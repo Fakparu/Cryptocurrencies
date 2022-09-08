@@ -12,7 +12,12 @@ In this project, a report that includes what cryptocurrencies are on the trading
 
 •	Grouped the cryptocurrencies by using clustering algorithm.
 
-•	Created data visualizations
+•	Created data visualizations.
+
+• Reduced features/dimensions using PCA and perform PCA on datasets. 
+
+• Used hierarchical clustering as alternative to K-means.
+
 
 
 ## Project Deliverables 
