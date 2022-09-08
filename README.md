@@ -53,5 +53,7 @@ In this project, a report that includes what cryptocurrencies are on the trading
 
 ![image](https://user-images.githubusercontent.com/105121697/189219763-a7a7670a-cfb2-4232-8fb9-9b6fdc755694.png)
 
+3D-Scatter with Clusters
+
 ![image](https://user-images.githubusercontent.com/105121697/189219848-c2aeef82-34c1-4641-bef4-a946a4138dee.png)
 
