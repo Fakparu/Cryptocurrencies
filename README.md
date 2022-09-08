@@ -36,7 +36,7 @@ In this project, a report that includes what cryptocurrencies are on the trading
 
 •	Preprocessing the Data for PCA
 
-![image](https://user-images.githubusercontent.com/105121697/189218948-c52feff5-b803-4c7f-a8a7-3f9da30b63b2.png)
+![image](https://user-images.githubusercontent.com/105121697/189221030-72c29696-5c27-4eeb-b22d-c222dd3f1f90.png)
 
 
 •	Reducing Data Dimensions Using PCA
